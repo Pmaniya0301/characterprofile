@@ -1,3 +1,6 @@
+# characterprofile
+Explore the React-powered Character Profile project! Create an elegant, responsive landing page with features like paginated character cards, detailed character views, and search/filter options. Utilizes the Rick and Morty API for dynamic data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
